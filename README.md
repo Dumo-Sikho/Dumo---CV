@@ -23,3 +23,10 @@ Welcome to my CV repository. My name is **Dumoluhle Sikhosana**, and I am an exp
 ## 📥 View My CV
 
 Click the link below to view or download my latest CV:
+https://github.com/Dumo-Sikho/Dumo---CV/blob/main/Dumoluhle%20Sikhosana%20(CV).pdf
+
+Thank you for taking the time to view my profile. For any further information, feel free to reach out to me at:
+
+📧 dumoluhledumo@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dumoluhle-sikhosana-4767531b0)
+
